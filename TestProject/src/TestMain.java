@@ -6,7 +6,6 @@ public class TestMain {
 		System.out.println("Hello Emu World");
 
 		System.out.println("Goodbye");
-		
 	}
 
 }
